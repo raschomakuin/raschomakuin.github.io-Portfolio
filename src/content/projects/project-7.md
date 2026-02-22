@@ -1,7 +1,7 @@
 ---
 title: Mi novia Candelaria
 description: Esta un poco loca, si.
-publishDate: '22 02 2026'
+publishDate: 'feb 22 2026'
 isFeatured: true
 seo:
   image:
