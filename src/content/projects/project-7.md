@@ -5,10 +5,10 @@ publishDate: 'feb 22 2026'
 isFeatured: true
 seo:
   image:
-    src: '../../assets/images/minovia.jpg'
+    src: '../../assets/images/minovia2.jpeg'
 ---
 
-![Project preview](../../assets/images/minovia.jpg)
+![Project preview](../../assets/images/minovia2.jpeg)
 
 **Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
