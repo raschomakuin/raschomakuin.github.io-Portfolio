@@ -1,5 +1,5 @@
-import avatar from '../assets/images/avatar.jpg';
-import hero from '../assets/images/hero.jpg';
+import avatar from '../assets/images/yo.png';
+import hero from '../assets/images/rusteze.png';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
@@ -9,10 +9,10 @@ const siteConfig: SiteConfig = {
         alt: 'Ethan Donovan'
     },
     title: 'Rodrigo S. Palacio S.',
-    subtitle: 'Minimal Astro.js theme',
+    subtitle: 'Data Analyst y Business Intelligence',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
-        src: '/dante-preview.jpg',
+        src: '/yo.png',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
     },
     headerNavLinks: [
