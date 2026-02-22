@@ -1,6 +1,6 @@
 ---
-title: CryptoTrader - Cryptocurrency Portfolio Manager
-description: CryptoTrader Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios.
+title: Mi novia Candelaria
+description: Esta un poco loca, si.
 publishDate: '22 02 2026'
 isFeatured: true
 seo:
