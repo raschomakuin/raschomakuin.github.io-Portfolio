@@ -8,8 +8,8 @@ const siteConfig: SiteConfig = {
         src: avatar,
         alt: 'Ethan Donovan'
     },
-    title: 'Rodrigo S. Palacio S.',
-    subtitle: 'Data Analyst y Business Intelligence',
+    title: 'Senior Data & Analytics Engineer',
+    subtitle: 'Integración, modelado y arquitectura analítica en entornos productivos.',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/yo.png',
@@ -66,8 +66,8 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Esto estuve haciendo estas horas...',
-        text: "I'm **Rodrigo Palacio**, a Data Analyst at Kolektor UT, dedicated to the realms of collaboration and artificial intelligence.\nMy approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products.\nI have a profound appreciation for top-notch software, visual design, and the principles of product-led growth.\n\nFeel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
+        title: 'Datos confiables. Sistemas automatizados. Decisiones estratégicas.',
+        text: "Soy profesional senior en análisis e ingeniería de datos con experiencia en la construcción de soluciones end-to-end: desde la integración y modelado en Databricks y bases Oracle, hasta la visualización estratégica en Power BI y Looker. He trabajado con arquitecturas modernas basadas en Dataverse y entornos productivos con actualización automatizada, desarrollando Data Marts analíticos y procesos programados para consumo interno y externo. Mi formación técnica incluye conocimientos de desarrollo backend, lo que me permite comprender integraciones, estructuras de datos y flujos completos de información más allá del análisis tradicional.",
         image: {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
