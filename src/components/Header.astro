@@ -10,18 +10,19 @@ const titleClass = 'text-theme-foreground font-serif text-2xl leading-tight font
         siteConfig.avatar?.src && (
             <a href="/">
                 <CustomImage
-                    class="aspect-square w-16 rounded-full object-cover sm:w-20"
+                    class="aspect-square w-12 rounded-full object-cover sm:w-[60px]"
                     {...siteConfig.avatar}
                     loading="eager"
                     fetchpriority="high"
-                    width={80}
-                    height={80}
-                    widths={[80, 160]}
-                    sizes="80px"
+                    width={60}
+                    height={60}
+                    widths={[60, 120]}
+                    sizes="60px"
                 />
             </a>
         )
     }
+</header>
     <div class="grow">
         {
             siteConfig.avatar?.src ? (
