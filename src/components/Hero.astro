@@ -12,21 +12,48 @@ const { title, image, text, actions } = Astro.props;
 {
     (title || image?.src || text || (actions && actions.length > 0)) && (
         <section class="mb-16 flex w-full flex-col gap-8 sm:mb-24">
-            {title && <h1 class="font-serif text-3xl leading-tight font-medium sm:text-5xl sm:leading-tight">{title}</h1>}
+
+            {/* Nombre + Título */}
+            {title && (
+                <>
+                    <p class="text-lg sm:text-xl font-semibold tracking-wide text-gray-600 dark:text-gray-400">
+                        Rodrigo Palacio
+                    </p>
+
+                    <h1 class="font-serif text-3xl leading-tight font-medium sm:text-5xl sm:leading-tight">
+                        {title}
+                    </h1>
+                </>
+            )}
+
+            {/* Imagen Hero */}
             {image?.src && (
                 <figure>
                     <CustomImage
-                        class="w-full"
+                        class="w-full sm:w-3/4 lg:w-2/3 mx-auto"
                         {...image}
                         widths={[480, 640, 768, 1024, 1536]}
-                        sizes="(min-width: 832px) 768px, calc(100vw - 32px)"
+                        sizes="(min-width: 1024px) 66vw, (min-width: 640px) 75vw, 100vw"
                         fetchpriority="high"
                         loading="eager"
                     />
-                    {image.caption && <figcaption class="mt-1.5 text-xs sm:text-sm">{image.caption}</figcaption>}
+                    {image.caption && (
+                        <figcaption class="mt-1.5 text-xs sm:text-sm text-center">
+                            {image.caption}
+                        </figcaption>
+                    )}
                 </figure>
             )}
-            {text && <div class="prose sm:prose-lg max-w-none" set:html={marked.parse(text)} />}
+
+            {/* Texto descriptivo */}
+            {text && (
+                <div
+                    class="prose sm:prose-lg max-w-none"
+                    set:html={marked.parse(text)}
+                />
+            )}
+
+            {/* Botones */}
             {actions && actions.length > 0 && (
                 <div class="flex flex-wrap gap-4">
                     {actions.map((action) => (
