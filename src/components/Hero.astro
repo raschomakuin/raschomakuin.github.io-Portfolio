@@ -2,53 +2,34 @@
 import { marked } from 'marked';
 import type { Hero as HeroProps } from '../types';
 import Button from './Button.astro';
-import CustomImage from './CustomImage.astro';
 
 type Props = HeroProps;
 
-const { title, image, text, actions } = Astro.props;
+const { title, text, actions } = Astro.props;
 ---
 
 {
-    (title || image?.src || text || (actions && actions.length > 0)) && (
-        <section class="mb-16 flex w-full flex-col gap-8 sm:mb-24">
+    (title || text || (actions && actions.length > 0)) && (
+        <section class="mb-16 flex w-full flex-col gap-6 sm:mb-24">
 
-            {/* Nombre + Título */}
+            {/* Nombre */}
             {title && (
                 <>
                     <p class="text-lg sm:text-xl font-semibold tracking-wide text-gray-600 dark:text-gray-400">
                         Rodrigo Palacio
                     </p>
 
+                    {/* Título profesional */}
                     <h1 class="font-serif text-3xl leading-tight font-medium sm:text-5xl sm:leading-tight">
                         {title}
                     </h1>
                 </>
             )}
 
-            {/* Imagen Hero */}
-            {image?.src && (
-                <figure>
-                    <CustomImage
-                        class="w-full sm:w-3/4 lg:w-2/3 mx-auto"
-                        {...image}
-                        widths={[480, 640, 768, 1024, 1536]}
-                        sizes="(min-width: 1024px) 66vw, (min-width: 640px) 75vw, 100vw"
-                        fetchpriority="high"
-                        loading="eager"
-                    />
-                    {image.caption && (
-                        <figcaption class="mt-1.5 text-xs sm:text-sm text-center">
-                            {image.caption}
-                        </figcaption>
-                    )}
-                </figure>
-            )}
-
             {/* Texto descriptivo */}
             {text && (
                 <div
-                    class="prose sm:prose-lg max-w-none"
+                    class="prose sm:prose-lg max-w-3xl"
                     set:html={marked.parse(text)}
                 />
             )}
