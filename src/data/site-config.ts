@@ -17,19 +17,19 @@ const siteConfig: SiteConfig = {
     },
     headerNavLinks: [
         {
-            text: 'Home',
+            text: 'Inicio',
             href: '/'
         },
         {
-            text: 'Projects',
+            text: '🔹 Soluciones Analíticas',
             href: '/projects'
         },
         {
-            text: 'Blog',
+            text: '🔹 Arquitectura y Data Engineering',
             href: '/blog'
         },
         {
-            text: 'Tags',
+            text: '🔹 Presentación y tecnologías',
             href: '/tags'
         }
     ],
@@ -58,7 +58,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Instagram',
-            href: 'https://instagram.com/'
+            href: 'https://instagram.com/palaciorodri/'
         },
         {
             text: 'X/Twitter',
@@ -74,7 +74,7 @@ const siteConfig: SiteConfig = {
         },
         actions: [
             {
-                text: 'Get in Touch',
+                text: 'Nos pongamos en contacto',
                 href: '/contact'
             }
         ]
