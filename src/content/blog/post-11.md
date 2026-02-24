@@ -1,7 +1,7 @@
 ---
 title: Optimización de Gestión de Casos en CRM Dynamics
 description: Dashboard analítico para mejora de eficiencia operativa
-date: 2026-02-24
+publishDate: 'Feb 24 2026'
 ---
 
 # 📊 Optimización de Gestión de Casos en CRM Dynamics
