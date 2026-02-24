@@ -1,14 +1,35 @@
 ---
-title: Get in touch
+title: Contacto
 seo:
-  title: Contact
-  description: Get in touch through email or social media! Let me know how I can help.
+  title: Contacto
+  description: ¿Querés trabajar conmigo o tenés una propuesta? Estoy disponible para nuevos desafíos en análisis e ingeniería de datos.
 ---
 
-Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:
+Gracias por tu interés.
 
-_Email:_
-Feel free to drop me an email at [example@example.com](mailto:example@example.com), and I'll do my best to respond as soon as possible.
+Si querés conversar sobre oportunidades laborales, proyectos de datos, automatización de procesos o desarrollo de soluciones analíticas, podés contactarme por los siguientes medios:
 
-_Social Media:_
-Connect with me on social media as well. Find me on [Twitter](https://twitter.com) or [LinkedIn](https://www.linkedin.com/).
+## 📧 Email
+
+Podés escribirme directamente a:
+
+**[rodripalacio14@gmail.com](mailto:rodripalacio14@gmail.com)**
+
+Intento responder lo antes posible.
+
+## 💼 LinkedIn
+
+También podés contactarme a través de LinkedIn para propuestas profesionales o networking:
+
+[Mi perfil de LinkedIn](https://www.linkedin.com/in/rodrigo-sebastian-palacio-schunke-07438613a/)
+
+---
+
+Estoy abierto a oportunidades en:
+- Análisis de Datos
+- Ingeniería de Datos
+- Business Intelligence
+- Automatización y Modelado Analítico
+- Proyectos tecnológicos con impacto en negocio
+
+Hablemos 🚀
