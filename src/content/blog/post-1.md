@@ -37,9 +37,9 @@ Portal Cliente
 
 ## 🖼 Screenshots
 
-![Flujo de fondos](/images/case-studies/finance/flow.png)
+![Flujo de fondos](/images/proyecto3a.jpg)
 
-![Reporte conciliación](/images/case-studies/finance/reconciliation.png)
+![Reporte conciliación](/images/proyecto3b.jpg)
 
 ## 🧰 Tecnologías
 - SQL  
