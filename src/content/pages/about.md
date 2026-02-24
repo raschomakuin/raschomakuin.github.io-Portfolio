@@ -4,7 +4,7 @@ seo:
   title: Sobre mí
   description: Conocé más sobre mi perfil profesional, experiencia en datos y mi enfoque en soluciones analíticas con impacto en negocio.
   image:
-    src: '../../assets/images/about.jpg'
+    src: '../../assets/images/yo.jpg'
     alt: Rodrigo trabajando en proyectos de análisis de datos
 ---
 
