@@ -1,7 +1,7 @@
 ---
 title: Dashboard Ejecutivo Integrado
 description: Consolidación de métricas históricas y actuales
-date: 2026-02-24
+publishDate: 'Feb 24 2026'
 ---
 
 # 📊 Dashboard Ejecutivo Integrado
