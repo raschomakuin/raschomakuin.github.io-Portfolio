@@ -8,7 +8,7 @@ seo:
     alt: Rodrigo trabajando en proyectos de análisis de datos
 ---
 
-![Sobre mí](../../assets/images/about.jpg)
+![Sobre mí](../../assets/images/yo.jpg)
 
 ## Rodrigo Palacio – Analista e Ingeniero de Datos
 
