@@ -1,7 +1,7 @@
 ---
 title: Integración y Conciliación de Fondos
 description: Automatización de procesos financieros y conciliación bancaria
-date: 2026-02-24
+publishDate: 'Feb 24 2026'
 ---
 
 # 💰 Integración y Conciliación de Fondos
