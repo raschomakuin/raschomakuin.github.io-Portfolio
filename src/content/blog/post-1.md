@@ -71,11 +71,6 @@ Distribución de fondos → Data Warehouse Oracle → Validación y conciliació
 
 ---
 
-## 🖼 Screenshots
-
-> Colocar las imágenes dentro de:  
-> `/public/images/`
-
 ### Dashboard interno de conciliación
 
 ![Light straight lines](../../assets/images/proyecto3a.jpg)
@@ -85,12 +80,6 @@ Distribución de fondos → Data Warehouse Oracle → Validación y conciliació
 ### Vista del reporte en portal externo
 
 ![Light straight lines](../../assets/images/proyecto3b.jpg)
-
----
-
-### Detalle descargable para municipios
-
-![Detalle municipios](/images/conciliacion-detalle.jpg)
 
 ---
 
