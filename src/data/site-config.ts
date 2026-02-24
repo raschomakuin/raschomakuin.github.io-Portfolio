@@ -30,30 +30,22 @@ const siteConfig: SiteConfig = {
         },
         {
             text: '🔹 Presentación y tecnologías',
-            href: '/tags'
+            href: '/about.md'
         }
     ],
     footerNavLinks: [
         {
-            text: 'About',
+            text: 'Sobre mi',
             href: '/about'
         },
         {
-            text: 'Contact',
+            text: 'Contacto',
             href: '/contact'
-        },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
+            text: 'Whatsapp',
             href: 'https://dribbble.com/'
         },
         {
@@ -61,8 +53,8 @@ const siteConfig: SiteConfig = {
             href: 'https://instagram.com/palaciorodri/'
         },
         {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'Linkedin',
+            href: 'https://www.linkedin.com/in/rodrigo-sebastian-palacio-schunke-07438613a/'
         }
     ],
     hero: {
@@ -78,14 +70,7 @@ const siteConfig: SiteConfig = {
                 href: '/contact'
             }
         ]
-    },
-    subscribe: {
-        enabled: true,
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        form: {
-            action: '#'
-        }
+    }
     },
     postsPerPage: 8,
     projectsPerPage: 8
