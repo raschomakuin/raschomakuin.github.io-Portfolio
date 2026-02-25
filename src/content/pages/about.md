@@ -2,73 +2,62 @@
 title: Sobre mí
 seo:
   title: Sobre mí
-  description: Conocé más sobre mi perfil profesional, experiencia en datos y mi enfoque en soluciones analíticas con impacto en negocio.
+  description: Conocé más sobre mi perfil profesional, mi recorrido en tecnología, liderazgo y mi especialización en ingeniería y analítica de datos.
   image:
     src: '../../assets/images/yo.jpg'
     alt: Rodrigo trabajando en proyectos de análisis de datos
 ---
 
-![Sobre mí](../../assets/images/yo.jpg)
+## Rodrigo Palacio – Datos, liderazgo y visión estratégica
 
-## Rodrigo Palacio – Analista e Ingeniero de Datos
+Nací y crecí en Misiones, y desde hace varios años vivo en Córdoba, ciudad donde desarrollé mi carrera profesional y académica. Fue aquí donde consolidé mi camino en tecnología y análisis de datos, combinando formación técnica con experiencia real en entornos productivos.
 
-Soy profesional especializado en análisis e ingeniería de datos, con experiencia en el diseño e implementación de soluciones analíticas end-to-end en entornos productivos.
-
-Mi enfoque combina conocimiento técnico sólido con comprensión del negocio, lo que me permite desarrollar soluciones que no solo funcionan técnicamente, sino que generan impacto real en la toma de decisiones.
+Actualmente me encuentro finalizando la carrera de Analista de Sistemas, cursando las últimas materias, con el objetivo de continuar hacia la Ingeniería en Sistemas y profundizar mi especialización en arquitectura y analítica de datos.
 
 ---
 
-## 💼 Experiencia Profesional
+## 🧠 Mi Perfil Profesional
 
-He trabajado en:
+Mi especialización principal está en análisis e ingeniería de datos: integración, modelado, automatización y construcción de soluciones analíticas con impacto en negocio.
 
-- Integración y transformación de datos
-- Modelado analítico y diseño de Data Marts
-- Desarrollo de dashboards ejecutivos
-- Automatización de procesos
-- Optimización de rendimiento en modelos BI
-- Implementación de seguridad a nivel de datos (RLS)
+Además, he desarrollado proyectos de desarrollo web y backend, lo que me permite comprender sistemas de punta a punta. Si bien mi foco profesional está orientado a los datos y la arquitectura analítica, esta base técnica más amplia me aporta una visión integral al momento de diseñar soluciones.
 
-Tecnologías con las que trabajo habitualmente:
+Me interesa construir sistemas que sean:
 
-- SQL avanzado  
-- Power BI  
-- Databricks  
-- Oracle  
-- Looker  
-- Dataverse  
-- Dynamics 365  
+- Escalables  
+- Automatizados  
+- Seguros  
+- Comprensibles para el negocio  
+
+No me enfoco únicamente en construir reportes, sino en diseñar estructuras de datos confiables que permitan una toma de decisiones estratégica y sostenida en el tiempo.
 
 ---
 
-## 🧠 Mi Enfoque
+## 🏈 Liderazgo y Gestión – Córdoba Football Americano
 
-Me interesa construir soluciones escalables, claras y orientadas a resultados.
+Además de mi carrera en tecnología, tengo un rol activo en la gestión y liderazgo dentro de Córdoba Football Americano.
 
-En cada proyecto priorizo:
+Participar en la organización y desarrollo de proyectos deportivos me permitió fortalecer habilidades clave como:
 
-- Definición correcta de métricas estratégicas  
-- Modelado eficiente de datos  
-- Automatización para reducción de tareas manuales  
-- Claridad visual en reportes ejecutivos  
-- Seguridad y control de acceso  
+- Liderazgo de equipos  
+- Coordinación de múltiples áreas  
+- Planificación estratégica  
+- Resolución de conflictos  
+- Toma de decisiones bajo presión  
 
-Creo que los datos no solo deben analizarse, sino transformarse en decisiones inteligentes.
-
----
-
-## 🚀 Más allá de lo técnico
-
-Además de mi desarrollo profesional en tecnología, participo activamente en la gestión y organización de proyectos deportivos, lo que fortaleció mis habilidades en liderazgo, coordinación y toma de decisiones estratégicas.
-
-Valoro el trabajo en equipo, la comunicación clara y la mejora continua.
+Esta experiencia complementa mi perfil técnico con una mirada organizacional y humana, algo que considero fundamental en cualquier entorno profesional.
 
 ---
 
-## 📈 Objetivo Profesional
+## 🚀 Visión a Futuro
 
-Busco seguir creciendo en entornos donde pueda aportar valor a través de la ingeniería de datos, el análisis estratégico y la automatización de procesos, participando en proyectos que generen impacto medible.
+Mi objetivo es seguir creciendo en entornos donde pueda:
 
----
+- Diseñar arquitecturas de datos robustas  
+- Liderar proyectos analíticos  
+- Automatizar procesos críticos  
+- Aportar visión estratégica basada en información confiable  
 
-Si querés conocer más sobre mis proyectos, te invito a explorar la sección de Case Studies.
+Aspiro a consolidarme como profesional especializado en ingeniería y arquitectura de datos, combinando profundidad técnica con capacidad de liderazgo.
+
+Creo que los datos no solo deben procesarse: deben convertirse en decisiones inteligentes que impulsen resultados reales.
