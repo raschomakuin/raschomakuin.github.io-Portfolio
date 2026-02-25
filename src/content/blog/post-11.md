@@ -1,6 +1,6 @@
 ---
 title: ⚙ Optimización de Gestión de Casos en CRM Dynamics
-description: Modelo analítico y dashboard con control de acceso dinámico para mejora de eficiencia operativa y cumplimiento de SLA.
+excerpt: Modelo analítico y dashboard con control de acceso dinámico para mejora de eficiencia operativa y cumplimiento de SLA.
 publishDate: 'Feb 24 2026'
 featured: true
 image:
