@@ -93,21 +93,16 @@ Dashboard operativo en Power BI Pro
 
 ### Vista general del dashboard
 
-![Light straight lines](../../assets/images/proyecto3a.jpg)
+![Light straight lines](../../assets/images/atareasagentes.jpg)
 
 ---
 
 ### Vista con seguridad aplicada (RLS)
 
-![Light straight lines](../../assets/images/proyecto3a.jpg)
+![Light straight lines](../../assets/images/atareasagentesrls.jpg)
 
 ---
 
-### Análisis de tiempos y SLA
-
-![Light straight lines](../../assets/images/proyecto3a.jpg)
-
----
 
 ## Tecnologías utilizadas
 
