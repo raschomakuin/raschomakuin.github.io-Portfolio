@@ -93,28 +93,21 @@ Dashboard operativo en Power BI Pro
 
 ---
 
-## 🖼 Espacio para imágenes
-
-_Subir las imágenes a:_  
-`/public/images/`
-
----
-
 ### Vista general del dashboard
 
-![Dashboard General](/images/crm-dashboard-general.jpg)
+![Light straight lines](../../assets/images/proyecto3a.jpg)
 
 ---
 
 ### Vista con seguridad aplicada (RLS)
 
-![Seguridad RLS](/images/crm-dashboard-rls.jpg)
+![Light straight lines](../../assets/images/proyecto3a.jpg)
 
 ---
 
 ### Análisis de tiempos y SLA
 
-![Análisis SLA](/images/crm-dashboard-sla.jpg)
+![Light straight lines](../../assets/images/proyecto3a.jpg)
 
 ---
 
