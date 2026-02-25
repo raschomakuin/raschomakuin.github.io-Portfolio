@@ -65,26 +65,21 @@ Dashboard Ejecutivo en Power BI Service
 
 ---
 
-## 🖼 Espacio para imágenes
-
-_Subir las imágenes a:_  
-`/public/images/`
-
 ### Vista general ejecutiva
 
-![Vista Ejecutiva](/images/dashboard-ejecutivo-overview.jpg)
+![Light straight lines](../../assets/images/aresumenconsultas.jpg)
 
 ---
 
-### Análisis por agente
+### Vista de monitoreo para mandos medios
 
-![Light straight lines](../../assets/images/proyecto3a.jpg)
+![Light straight lines](../../assets/images/aconsultasmonitoreo.jpg)
 
 ---
+### Semaforización estratégica y parametrización de objetivos
 
-### Semaforización estratégica
-
-![Light straight lines](../../assets/images/proyecto3a.jpg)
+![Light straight lines](../../assets/images/akpisemaforo.jpg)
+![Light straight lines](../../assets/images/asemaforo.jpg)
 
 ---
 
