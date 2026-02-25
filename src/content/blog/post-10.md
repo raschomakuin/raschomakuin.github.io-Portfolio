@@ -80,13 +80,13 @@ _Subir las imágenes a:_
 
 ### Análisis por agente
 
-![Análisis por agente](/images/dashboard-ejecutivo-agentes.jpg)
+![Light straight lines](../../assets/images/proyecto3a.jpg)
 
 ---
 
 ### Semaforización estratégica
 
-![Semaforización](/images/dashboard-ejecutivo-semaforo.jpg)
+![Light straight lines](../../assets/images/proyecto3a.jpg)
 
 ---
 
