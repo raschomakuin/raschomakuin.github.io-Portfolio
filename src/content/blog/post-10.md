@@ -2,7 +2,7 @@
 title: 📈 Dashboard Ejecutivo Integrado
 excerpt: Consolidación histórica y modelado analítico unificado tras migración tecnológica hacia Dynamics 365.
 publishDate: 'Feb 24 2026'
-featured: true
+isFeatured: true
 image:
   src: '/images/dashboard-ejecutivo-cover.jpg'
   alt: Dashboard ejecutivo con KPIs estratégicos
