@@ -9,8 +9,6 @@ image:
 tags: ['Power BI', 'DAX', 'Dataverse', 'RLS', 'Modelado Estrella']
 ---
 
-# 📊 Optimización de Gestión de Casos en CRM Dynamics
-
 ## Contexto
 
 La organización gestiona más de 60 tipos distintos de consultas, incluyendo cuestiones técnicas, normativas y gestiones tributarias. Se trata de una estructura amplia, dividida en múltiples equipos, que trabaja con clientes gubernamentales y opera bajo fuerte presión de cumplimiento de SLA.
