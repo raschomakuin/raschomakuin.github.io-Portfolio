@@ -50,7 +50,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Rodrigo Sebastián Palacio Schunke',
-        text: "Soy profesional senior en análisis e ingeniería de datos con experiencia en la construcción de soluciones end-to-end: desde la integración y modelado en Databricks y bases Oracle, hasta la visualización estratégica en Power BI y Looker. He trabajado con arquitecturas modernas basadas en Dataverse y entornos productivos con actualización automatizada, desarrollando Data Marts analíticos y procesos programados para consumo interno y externo.",
+        text: "Soy profesional senior en análisis e ingeniería de datos con experiencia en la construcción de soluciones end-to-end: desde la integración y modelado en Databricks y bases Oracle, hasta la visualización estratégica en herramientas de visualización. He trabajado con arquitecturas modernas basadas en Dataverse y entornos productivos con actualización automatizada, desarrollando Data Marts analíticos y procesos programados para consumo interno y externo.",
         image: {
             src: hero,
             alt: 'Rodrigo trabajando en análisis de datos'
