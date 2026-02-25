@@ -5,8 +5,7 @@ import type { SiteConfig } from '../types';
 const siteConfig: SiteConfig = {
     website: 'https://raschomakuin.github.io/Portfolio',
     avatar: {
-        src: avatar,
-        alt: 'Rodrigo Palacio'
+        src: avatar
     },
     title: 'Senior Data & Analytics Engineer',
     subtitle: 'Integración, modelado y arquitectura analítica en entornos productivos.',
@@ -50,7 +49,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Datos confiables, sistemas automatizados y decisiones estratégicas.',
+        title: 'Rodrigo Sebastián Palacio Schunke',
         text: "Soy profesional senior en análisis e ingeniería de datos con experiencia en la construcción de soluciones end-to-end: desde la integración y modelado en Databricks y bases Oracle, hasta la visualización estratégica en Power BI y Looker. He trabajado con arquitecturas modernas basadas en Dataverse y entornos productivos con actualización automatizada, desarrollando Data Marts analíticos y procesos programados para consumo interno y externo.",
         image: {
             src: hero,
