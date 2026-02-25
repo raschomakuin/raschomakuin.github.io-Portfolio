@@ -57,7 +57,7 @@ const siteConfig: SiteConfig = {
         },
         actions: [
             {
-                text: 'Nos pongamos en contacto',
+                text: 'Contacto',
                 href: '/contact'
             }
         ]
