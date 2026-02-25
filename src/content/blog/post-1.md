@@ -1,7 +1,7 @@
 
 ---
 title: 📊 Integración y Conciliación de Fondos
-description: Automatización y modelado de conciliación financiera diaria para convenios municipales con validación preventiva y consumo externo.
+excerpt: Automatización y modelado de conciliación financiera diaria para convenios municipales con validación preventiva y consumo externo.
 publishDate: 'Feb 24 2026'
 featured: true
 image:
