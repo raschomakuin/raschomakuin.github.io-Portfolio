@@ -12,20 +12,6 @@ const { title, text, actions } = Astro.props;
     (title || text || (actions && actions.length > 0)) && (
         <section class="mb-16 flex w-full flex-col gap-6 sm:mb-24">
 
-            {/* Nombre 
-            {title && (
-                <>
-                    <p class="text-lg sm:text-xl font-semibold tracking-wide text-gray-600 dark:text-gray-400">
-                        Rodrigo Palacio
-                    </p>
-
-                    {/* Título profesional */}
-                    <h1 class="font-serif text-3xl leading-tight font-medium sm:text-5xl sm:leading-tight">
-                        {title}
-                    </h1>
-                </>
-            )}
- */}
 
             {/* Texto descriptivo */}
             {text && (
