@@ -10,8 +10,6 @@ image:
 tags: ['Data Engineering', 'SQL', 'Oracle', 'Power BI', 'Automatización']
 ---
 
-# 💰 Integración y Conciliación de Fondos
-
 ## Contexto
 
 El proyecto surgió ante la necesidad de profesionalizar y automatizar el proceso de conciliación de fondos correspondientes a cuatro convenios activos, que implicaban la distribución diaria de dinero a aproximadamente 150 municipios.
