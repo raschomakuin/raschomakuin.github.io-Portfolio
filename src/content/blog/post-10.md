@@ -9,8 +9,6 @@ image:
 tags: ['Power BI', 'Modelado Estrella', 'DAX', 'Dataverse', 'Business Intelligence']
 ---
 
-# 📊 Dashboard Ejecutivo Integrado
-
 ## Contexto
 
 El proyecto se desarrolló en un momento de transformación tecnológica dentro del sector. La organización decidió migrar desde un esquema de gestión basado en Planner hacia Dynamics 365 (Dataverse), buscando mayor trazabilidad, automatización y escalabilidad operativa.
