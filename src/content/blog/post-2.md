@@ -4,7 +4,7 @@ description: Diseño de capa analítica multi-convenio para padrones, facturaci�
 publishDate: 'Feb 25 26'
 featured: true
 image:
-  src: '/CTE.png'
+  src: ![Light straight lines](../../assets/images/proyecto3a.jpg)
   alt: Arquitectura DataMart Tributario en Azure Databricks'
 tags: ['Databricks', 'Azure', 'Delta Lake', 'SQL', 'Data Engineering']
 ---
