@@ -71,13 +71,13 @@ Distribución de fondos → Data Warehouse Oracle → Validación y conciliació
 
 ### Dashboard interno de conciliación
 
-![Light straight lines](../../assets/images/proyecto3a.jpg)
+![Light straight lines](../../assets/images/proyecto3b.jpg)
 
 ---
 
 ### Vista del reporte en portal externo
 
-![Light straight lines](../../assets/images/proyecto3b.jpg)
+![Light straight lines](../../assets/images/proyecto3a.jpg)
 
 ---
 
