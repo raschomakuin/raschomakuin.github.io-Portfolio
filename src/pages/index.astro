@@ -17,6 +17,49 @@ const featuredProjects = projects.filter(({ data }) => data.isFeatured);
 
 <BaseLayout description={siteConfig.description}>
     <Hero {...siteConfig.hero} />
+
+<section class="my-20 sm:my-28">
+    <h2 class="mb-12 font-serif text-2xl italic sm:text-4xl">
+        Áreas de especialización
+    </h2>
+
+    <div class="grid gap-10 sm:grid-cols-3">
+        
+        <div class="rounded-2xl border p-6 transition hover:shadow-lg">
+            <h3 class="mb-4 text-lg font-semibold">
+                🧱 Arquitectura de Datos
+            </h3>
+            <p class="text-sm leading-relaxed text-gray-600">
+                Diseño de Data Marts, modelado estrella, definición de granularidad
+                e integración multi-fuente en entornos productivos como Azure,
+                Databricks y bases Oracle.
+            </p>
+        </div>
+
+        <div class="rounded-2xl border p-6 transition hover:shadow-lg">
+            <h3 class="mb-4 text-lg font-semibold">
+                ⚙ Automatización y Procesos
+            </h3>
+            <p class="text-sm leading-relaxed text-gray-600">
+                Desarrollo de notebooks productivos, procesos ETL/ELT programados
+                y automatización de flujos para reducir tareas manuales y
+                garantizar consistencia operativa.
+            </p>
+        </div>
+
+        <div class="rounded-2xl border p-6 transition hover:shadow-lg">
+            <h3 class="mb-4 text-lg font-semibold">
+                📊 Analítica Estratégica
+            </h3>
+            <p class="text-sm leading-relaxed text-gray-600">
+                Definición de KPIs, construcción de modelos de medición
+                y visualización ejecutiva en Power BI y Looker para
+                soporte a decisiones institucionales.
+            </p>
+        </div>
+
+    </div>
+</section>
     {/*
 {
         featuredProjects?.length > 0 && (
