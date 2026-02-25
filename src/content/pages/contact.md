@@ -11,11 +11,7 @@ Si querés conversar sobre oportunidades laborales, proyectos de datos, automati
 
 ## 📧 Email
 
-Podés escribirme directamente a:
-
 **[rodripalacio14@gmail.com](mailto:rodripalacio14@gmail.com)**
-
-Intento responder lo antes posible.
 
 ## 💼 LinkedIn
 
@@ -30,6 +26,6 @@ Estoy abierto a oportunidades en:
 - Ingeniería de Datos
 - Business Intelligence
 - Automatización y Modelado Analítico
-- Proyectos tecnológicos con impacto en negocio
+- Otros proyectos tecnológicos con impacto en negocio
 
 Hablemos 🚀
