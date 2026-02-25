@@ -99,7 +99,7 @@ Dashboard operativo en Power BI Pro
 
 ### Vista con seguridad aplicada (RLS)
 
-![Light straight lines](../../assets/images/atareasagentesrls.jpg)
+![Light straight lines](../../assets/images/atareasagentesrls.png)
 
 ---
 
