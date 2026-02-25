@@ -1,6 +1,6 @@
 ---
 title: 🏛 DataMart Tributario en Azure Databricks
-description: Diseño de capa analítica multi-convenio para padrones, facturación y cruces fiscales sobre millones de registros.
+excerpt: Diseño de capa analítica multi-convenio para padrones, facturación y cruces fiscales sobre millones de registros.
 publishDate: 'Feb 25 26'
 featured: true
 image:
