@@ -17,21 +17,21 @@ const siteConfig: SiteConfig = {
     },
     headerNavLinks: [
         {
-            text: 'Inicio',
+            text: '🔵 Inicio',
             href: '/'
         },
         {
-            text: 'Soluciones Analíticas, Arquitectura y Data Engineering',
+            text: '🟢 Soluciones',
             href: '/blog'
         },
         {
-            text: 'Sobre mi',
+            text: '🟣 Sobre mí',
             href: '/about'
         }
     ],
     footerNavLinks: [
         {
-            text: 'Sobre mi',
+            text: 'Sobre mí',
             href: '/about'
         },
         {
