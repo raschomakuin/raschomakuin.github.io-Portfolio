@@ -62,7 +62,7 @@ const { Content } = await render(post);
                     </div>
                 )
             }
-            <Button class="copy-url-button" aria-label="Copy link" data-url={href} data-tooltip-default="Copy link" data-tooltip-success="Copied">Share</Button>
+            
         </div>
     </article>
     {
@@ -77,24 +77,3 @@ const { Content } = await render(post);
     <Subscribe class="my-16 sm:my-24" />
 </BaseLayout>
 
-<script>
-    document.addEventListener('astro:page-load', () => {
-        const copyUrlButton = document.querySelector('.copy-url-button') as HTMLButtonElement;
-        copyUrlButton?.addEventListener('click', async () => {
-            await copyUrl(copyUrlButton);
-        });
-
-        async function copyUrl(button: HTMLButtonElement) {
-            let url = button.getAttribute('data-url') || '';
-            let label = button.innerText;
-
-            await navigator.clipboard.writeText(url);
-
-            button.innerText = 'Copied';
-
-            setTimeout(() => {
-                button.innerText = label;
-            }, 2500);
-        }
-    });
-</script>
