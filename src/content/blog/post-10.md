@@ -1,5 +1,5 @@
 ---
-title: Dashboard Ejecutivo Integrado
+title: 📈 Dashboard Ejecutivo Integrado
 description: Consolidación histórica y modelado analítico unificado tras migración tecnológica hacia Dynamics 365.
 publishDate: 'Feb 24 2026'
 featured: true
