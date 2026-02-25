@@ -122,7 +122,7 @@ Más que una consolidación técnica, el DataMart permitió transformar un esque
 ---
 
 ### Algunas fracciones del notebook
-![Notebook](/CTE.png)
+![Light straight lines](../../assets/images/CTE.png)
 
 ---
 
