@@ -4,7 +4,7 @@ excerpt: Consolidación histórica y modelado analítico unificado tras migraci�
 publishDate: 'Feb 24 2026'
 isFeatured: true
 image:
-  src: '/images/dashboard-ejecutivo-cover.jpg'
+  src: '/images/InformeEjecutivoIA.png'
   alt: Dashboard ejecutivo con KPIs estratégicos
 tags: ['Power BI', 'Modelado Estrella', 'DAX', 'Dataverse', 'Business Intelligence']
 ---
@@ -67,13 +67,13 @@ Dashboard Ejecutivo en Power BI Service
 
 ### Vista general ejecutiva
 
-![Light straight lines](../../assets/images/aresumenconsultas.jpg)
+![Light straight lines](../../assets/images/InformeEjecutivoIA.png)
 
 ---
 
 ### Vista de monitoreo para mandos medios
 
-![Light straight lines](../../assets/images/aconsultasmonitoreo.jpg)
+![Light straight lines](../../assets/images/MonitoreoIA.png)
 
 ---
 ### Semaforización estratégica y parametrización de objetivos
