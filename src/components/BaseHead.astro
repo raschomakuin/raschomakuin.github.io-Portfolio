@@ -2,10 +2,13 @@
 import interWoff2 from '@fontsource-variable/inter/files/inter-latin-wght-normal.woff2?url';
 import newsreaderWoff2 from '@fontsource-variable/newsreader/files/newsreader-latin-wght-normal.woff2?url';
 import { getImage } from 'astro:assets';
+import { inject } from '@vercel/analytics';
 import siteConfig from '../data/site-config';
 import type { ImageInput } from '../types';
 
 import '../styles/global.css';
+
+inject();
 
 export type Props = {
     title?: string;
